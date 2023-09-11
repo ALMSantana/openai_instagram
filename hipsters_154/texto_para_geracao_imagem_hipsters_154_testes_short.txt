@@ -1,0 +1,1 @@
+Descubra como ensinar máquinas a escrever testes para seu software no episódio do podcast Hipsters.tech, explorando ferramentas como EvoSuite para gerar testes com 100% de cobertura de código, achar bugs e evitar falhas de segurança e performance.
